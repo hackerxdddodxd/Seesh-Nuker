@@ -206,9 +206,9 @@ class Seesh:
                 }],
                 'author': {
                     'name':
-                    'Seesh fucks you',
+                    ' fuck by team max',
                     'url':
-                    'https://media.discordapp.net/attachments/1005729774351691776/1014038921002373150/a_18520f6f7947e5acfdffe8e63b748c2e.gif?width=221&height=221',
+                    'https://cdn.discordapp.com/attachments/1095938891766300732/1124273993176854649/MX__SICTM.gif',
                     'icon_url':
                     'https://media.discordapp.net/attachments/1005729774351691776/1014038919836336198/a_04d536f4606dd36b6d154ede2401e8e1.gif?width=405&height=162'
                 },
@@ -220,7 +220,7 @@ class Seesh:
                 },
                 'image': {
                     'url':
-                    'https://media.discordapp.net/attachments/1005729774351691776/1014038921002373150/a_18520f6f7947e5acfdffe8e63b748c2e.gif?width=221&height=221'
+                    'https://cdn.discordapp.com/attachments/1095938891766300732/1124273993176854649/MX__SICTM.gif'
                 },
                 'thumbnail': {
                     'url':
@@ -228,7 +228,7 @@ class Seesh:
                 }
             }, {
                 'url':
-                'https://media.discordapp.net/attachments/1005729774351691776/1014038921002373150/a_18520f6f7947e5acfdffe8e63b748c2e.gif?width=221&height=221',
+                'https://cdn.discordapp.com/attachments/1095938891766300732/1124273993176854649/MX__SICTM.gif',
                 'image': {
                     'url':
                     'https://media.discordapp.net/attachments/1005729774351691776/1014038919836336198/a_04d536f4606dd36b6d154ede2401e8e1.gif?width=405&height=162'
@@ -241,14 +241,14 @@ class Seesh:
                     'https://media.discordapp.net/attachments/1005729774351691776/1014038919836336198/a_04d536f4606dd36b6d154ede2401e8e1.gif?width=405&height=162'
                 }
             }, {
-                'url': 'https://discord.gg/seesh',
+                'url': 'https://discord.gg/maxonfire',
                 'image': {
                     'url':
                     'https://media.discordapp.net/attachments/1005729774351691776/1014038919836336198/a_04d536f4606dd36b6d154ede2401e8e1.gif?width=405&height=162'
                 }
             }],
             'username':
-            'Seesh Ruins You',
+            'DRAVEB Ruins You',
             'avatar_url':
             'https://media.discordapp.net/attachments/1005729774351691776/1014038919836336198/a_04d536f4606dd36b6d154ede2401e8e1.gif?width=405&height=162'
         }
@@ -347,12 +347,20 @@ class Seesh:
 async def menu():
     os.system(f'cls & mode 85,20 & title [Seesh Nuker] - Connected: {client.user}')
     print(f'''{Fore.LIGHTRED_EX}
-░██████╗███████╗███████╗░██████╗██╗░░██╗
-██╔════╝██╔════╝██╔════╝██╔════╝██║░░██║
-╚█████╗░█████╗░░█████╗░░╚█████╗░███████║
-░╚═══██╗██╔══╝░░██╔══╝░░░╚═══██╗██╔══██║
-██████╔╝███████╗███████╗██████╔╝██║░░██║
-╚═════╝░╚══════╝╚══════╝╚═════╝░╚═╝░░╚═╝
+
+██████╗░██████╗░░█████╗░██╗░░░██╗███████╗███╗░░██╗
+██╔══██╗██╔══██╗██╔══██╗██║░░░██║██╔════╝████╗░██║
+██║░░██║██████╔╝███████║╚██╗░██╔╝█████╗░░██╔██╗██║
+██║░░██║██╔══██╗██╔══██║░╚████╔╝░██╔══╝░░██║╚████║
+██████╔╝██║░░██║██║░░██║░░╚██╔╝░░███████╗██║░╚███║
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝╚═╝░░╚══╝
+
+██╗░░░██╗░░███╗░░░█████╗░████████╗██████╗░
+██║░░░██║░████║░░██╔══██╗╚══██╔══╝██╔══██╗
+╚██╗░██╔╝██╔██║░░╚█████╔╝░░░██║░░░██████╦╝
+░╚████╔╝░╚═╝██║░░██╔══██╗░░░██║░░░██╔══██╗
+░░╚██╔╝░░███████╗╚█████╔╝░░░██║░░░██████╦╝
+░░░╚═╝░░░╚══════╝░╚════╝░░░░╚═╝░░░╚═════╝░
 {Style.BRIGHT}''')
     print(f'''{Fore.RED} Choose Your Option Below :- {Style.BRIGHT}''')
     print(f'\033[37m[\x1b[38;5;113m1\033[37m] \033[37m Ban Members     \x1b[38;5;213m')
