@@ -182,13 +182,13 @@ class Seesh:
             invilink,
             'embeds': [{
                 'title':
-                'fucked by your dad',
+                'fucked by team max ',
                 'tts':
                 'true',
                 'description':
                 '.',
                 'url':
-                "https://discord.gg/seesh",
+                "https://discord.gg/maxonfire",
                 'color':
                 randcolor,
                 'fields': [{
@@ -248,9 +248,9 @@ class Seesh:
                 }
             }],
             'username':
-            'DRAVEB Ruins You',
+            'DRAVEN RUN CORD',
             'avatar_url':
-            'https://media.discordapp.net/attachments/1005729774351691776/1014038919836336198/a_04d536f4606dd36b6d154ede2401e8e1.gif?width=405&height=162'
+            'https://cdn.discordapp.com/avatars/1033579314488279140/a_12265dfc81dc0770fd157a843d5be75b.gif?size=2048'
         }
                 spaming = requests.post(webhook, json=data, proxies=proxy)
                 spammingerror = spaming.text
